@@ -3,8 +3,8 @@
 		"numero": "0000000000000000",
 		"valid": "03/2020",
 		"nome": "JORGE V R GAMBOA",
-		"limite": 5700.0,
-		"limite_usado": 700.0
+		"limite": 5700.01,
+		"limite_usado": 700.01
 	},
 	"faturas": [
 		{
