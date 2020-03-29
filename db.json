@@ -2,7 +2,9 @@
 	"cartao": {
 		"numero": "0000000000000000",
 		"valid": "03/2020",
-		"nome": "JORGE V R GAMBOA"
+		"nome": "JORGE V R GAMBOA",
+		"limite": 5700.0,
+		"limite_usado": 700.0
 	},
 	"faturas": [
 		{
@@ -13,13 +15,13 @@
 		},
 		{
 			"competencia": "02/2020",
-			"valor": 754.10,
+			"valor": 754.1,
 			"pago": false,
 			"vencimento": "2020-03-04 00:00:00.000"
 		},
 		{
 			"competencia": "01/2020",
-			"valor": 854.90,
+			"valor": 854.9,
 			"pago": true,
 			"vencimento": "2020-03-04 00:00:00.000"
 		}
