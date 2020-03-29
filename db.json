@@ -104,6 +104,20 @@
 			"categoria": 9,
 			"tipo": "+",
 			"data": "2020-03-29 00:00:00.000"
+		},
+		{
+			"valor": 74.99,
+			"descricao": "Steam *GTA V",
+			"categoria": 14,
+			"tipo": "+",
+			"data": "2020-03-29 00:00:00.000"
+		},
+		{
+			"valor": 34.70,
+			"descricao": "Telecine",
+			"categoria": 9,
+			"tipo": "+",
+			"data": "2020-03-20 00:00:00.000"
 		}
 	]
 }
