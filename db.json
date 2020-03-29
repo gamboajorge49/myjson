@@ -97,6 +97,13 @@
 			"categoria": -1,
 			"tipo": "+",
 			"data": "2020-03-29 00:00:00.000"
+		},
+		{
+			"valor": 26.50,
+			"descricao": "MedPlan",
+			"categoria": 9,
+			"tipo": "+",
+			"data": "2020-03-29 00:00:00.000"
 		}
 	]
 }
