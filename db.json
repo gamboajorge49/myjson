@@ -77,6 +77,12 @@
 			"categoria": 12,
 			"tipo": "+",
 			"data": "2020-03-05 00:00:00.000"
+		},	{
+			"valor": 11.50,
+			"descricao": "James Delivey",
+			"categoria": -1,
+			"tipo": "+",
+			"data": "2020-03-29 00:00:00.000"
 		}
 	]
 }
