@@ -7,19 +7,19 @@
 	"faturas": [
 		{
 			"competencia": "03/2020",
-			"valor": 400.0,
+			"valor": 400.08,
 			"pago": false,
 			"vencimento": "2020-03-04 00:00:00.000"
 		},
 		{
 			"competencia": "02/2020",
-			"valor": 400.0,
+			"valor": 754.10,
 			"pago": false,
 			"vencimento": "2020-03-04 00:00:00.000"
 		},
 		{
 			"competencia": "01/2020",
-			"valor": 400.0,
+			"valor": 854.90,
 			"pago": true,
 			"vencimento": "2020-03-04 00:00:00.000"
 		}
