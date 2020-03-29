@@ -1,0 +1,82 @@
+{
+	"movimentos": [
+		{
+			"valor": 29.9,
+			"descricao": "You Tube Music",
+			"categoria": 5,
+			"tipo": "+",
+			"data": "2020-03-04 00:00:00.000"
+		},
+		{
+			"valor": 500.58,
+			"descricao": "Amazon.com.br",
+			"categoria": 0,
+			"tipo": "+",
+			"data": "2020-03-05 00:00:00.000"
+		},
+		{
+			"valor": 9.99,
+			"descricao": "Amazon Prime",
+			"categoria": 8,
+			"tipo": "+",
+			"data": "2020-03-05 00:00:00.000"
+		},
+		{
+			"valor": 59.99,
+			"descricao": "Burger King",
+			"categoria": 1,
+			"tipo": "+",
+			"data": "2020-03-07 00:00:00.000"
+		},
+		{
+			"valor": 42.50,
+			"descricao": "NETFLIX",
+			"categoria": 7,
+			"tipo": "+",
+			"data": "2020-03-08 00:00:00.000"
+		},	{
+			"valor": 8.50,
+			"descricao": "SPOTIFY",
+			"categoria": 3,
+			"tipo": "+",
+			"data": "2020-03-02 00:00:00.000"
+		},	{
+			"valor": 29.99,
+			"descricao": "Udemy *PayPal",
+			"categoria": 4,
+			"tipo": "+",
+			"data": "2020-03-01 00:00:00.000"
+		},	{
+			"valor": 39.99,
+			"descricao": "DX *PayPal",
+			"categoria": 4,
+			"tipo": "+",
+			"data": "2020-03-06 00:00:00.000"
+		}
+,	{
+			"valor": 39.99,
+			"descricao": "UBER",
+			"categoria": 10,
+			"tipo": "+",
+			"data": "2020-03-06 00:00:00.000"
+		},	{
+			"valor": 24.49,
+			"descricao": "Extra",
+			"categoria": 0,
+			"tipo": "+",
+			"data": "2020-03-06 00:00:00.000"
+		},	{
+			"valor": 24.49,
+			"descricao": "Cinema Rio Poty",
+			"categoria": 11,
+			"tipo": "+",
+			"data": "2020-03-06 00:00:00.000"
+		},	{
+			"valor": 825.50,
+			"descricao": "CEUT",
+			"categoria": 12,
+			"tipo": "+",
+			"data": "2020-03-05 00:00:00.000"
+		}
+	]
+}
