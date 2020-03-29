@@ -1,11 +1,11 @@
 {
-	"cartoes": [
+	"cartoes": 
 		{
 			"numero": "0000000000000000",
 			"valid": "03/2020",
 			"nome": "JORGE V R GAMBOA"
-		}
-	],
+		},
+	
 	"movimentos": [
 		{
 			"valor": 29.9,
