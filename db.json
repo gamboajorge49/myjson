@@ -1,4 +1,11 @@
 {
+	"cartoes": [
+		{
+			"numero": "0000000000000000",
+			"valid": "03/2020",
+			"nome": "JORGE V R GAMBOA"
+		}
+	],
 	"movimentos": [
 		{
 			"valor": 29.9,
@@ -29,56 +36,63 @@
 			"data": "2020-03-07 00:00:00.000"
 		},
 		{
-			"valor": 42.50,
+			"valor": 42.5,
 			"descricao": "NETFLIX",
 			"categoria": 7,
 			"tipo": "+",
 			"data": "2020-03-08 00:00:00.000"
-		},	{
-			"valor": 8.50,
+		},
+		{
+			"valor": 8.5,
 			"descricao": "SPOTIFY",
 			"categoria": 3,
 			"tipo": "+",
 			"data": "2020-03-02 00:00:00.000"
-		},	{
+		},
+		{
 			"valor": 29.99,
 			"descricao": "Udemy *PayPal",
 			"categoria": 4,
 			"tipo": "+",
 			"data": "2020-03-01 00:00:00.000"
-		},	{
+		},
+		{
 			"valor": 39.99,
 			"descricao": "DX *PayPal",
 			"categoria": 4,
 			"tipo": "+",
 			"data": "2020-03-06 00:00:00.000"
-		}
-,	{
+		},
+		{
 			"valor": 39.99,
 			"descricao": "UBER",
 			"categoria": 10,
 			"tipo": "+",
 			"data": "2020-03-06 00:00:00.000"
-		},	{
+		},
+		{
 			"valor": 24.49,
 			"descricao": "Extra",
 			"categoria": 0,
 			"tipo": "+",
 			"data": "2020-03-06 00:00:00.000"
-		},	{
+		},
+		{
 			"valor": 24.49,
 			"descricao": "Cinema Rio Poty",
 			"categoria": 11,
 			"tipo": "+",
 			"data": "2020-03-06 00:00:00.000"
-		},	{
-			"valor": 825.50,
+		},
+		{
+			"valor": 825.5,
 			"descricao": "CEUT",
 			"categoria": 12,
 			"tipo": "+",
 			"data": "2020-03-05 00:00:00.000"
-		},	{
-			"valor": 11.50,
+		},
+		{
+			"valor": 11.5,
 			"descricao": "James Delivey",
 			"categoria": -1,
 			"tipo": "+",
