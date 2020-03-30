@@ -138,6 +138,20 @@
 			"categoria": 7,
 			"tipo": "+",
 			"data": "2020-03-20 00:00:00.000"
+		},
+		{
+			"valor": 34.88,
+			"descricao": "Plano OI",
+			"categoria": -1,
+			"tipo": "+",
+			"data": "2020-03-20 00:00:00.000"
+		},
+		{
+			"valor": 34.84,
+			"descricao": "Americanas.com",
+			"categoria": -1,
+			"tipo": "+",
+			"data": "2020-03-20 00:00:00.000"
 		}
 	]
 }
