@@ -62,42 +62,6 @@
         "diciplinas": 0,
         "formacao": "Bacharelado, Tecnólogo, Pós-graduação e Técnico",
         "texto": "O curso de Jogos Digitais forma profissionais para o desenvolvimento de jogos para as mais diversas plataformas digitais.\r\n\r\nApós a conclusão do curso, o aluno está apto a desenvolver todas as etapas que constituem um jogo, como roteiro, descrição dos personagens, modelagem, criação do ambiente digital, estratégias e toda a finalização.\r\n\r\nO superior em Jogos Digitais é um curso tecnólogo e por isso pode ser concluído em dois ou três anos, de forma mais rápida que outros cursos de graduação.\r\n\r\nNo mercado de trabalho, o profissional de Jogos Digitais poderá atuar como autônomo, produzindo seus próprios projetos, ou em empresas de desenvolvimento de jogos.\r\n\r\nPode ainda atuar em outras áreas, como em empresas de publicidade e no desenvolvimento de sites e aplicativos.\r\n\r\nOs tipos de formação para o curso de Jogos Digitais são: bacharelado, tecnólogo, pós-graduação e técnico."
-    },
-    {
-        "codigo": 10,
-        "nome": "Redes de Computadores",
-        "descricao": "O curso de Redes de Computadores forma profissionais capazes de auxiliar no projeto e na construção de redes de computadores pessoais, de empresas e de produção automatizada.",
-        "carga_horaria": 0,
-        "diciplinas": 0,
-        "formacao": "Tecnólogo, Pós-graduação e Técnico",
-        "texto": "O curso de Redes de Computadores forma profissionais capazes de auxiliar no projeto e na construção de redes de computadores pessoais, de empresas e de produção automatizada. Ao final do curso, o tecnólogo em Rede de Computadores está qualificado para desenvolver e documentar projetos de redes de pequeno, médio e grande porte.\r\n\r\nTambém para avaliar o desempenho da rede e propor medidas para melhoria da qualidade de serviço. No mercado de trabalho, o profissional atua em empresas da área de Tecnologia da Informação e nos setores de TI de empresas de todos os segmentos. Também existem opções de cursos técnicos na área.\r\n\r\nEnquanto o técnico atua operacionalmente na implantação de sistemas de comunicação de dados, o tecnólogo possui competências técnicas e habilidades em gestão de redes corporativas.\r\n\r\nOs tipos de formação para o curso de Redes de Computadores são: tecnólogo, pós-graduação e técnico."
-    },
-    {
-        "codigo": 9,
-        "nome": "Segurança da Informação",
-        "descricao": "O Curso Superior de Tecnologia em Segurança da Informação tem o objetivo de capacitar o aluno a perceber, aprimorar e dinamizar os métodos de proteção aplicados sobre um conjunto de dados no sentido de preservar o valor que possui para um indivíduo ou uma organização, tendo como características básicas da segurança da informação os aspectos de confidencialidade, integridade e disponibilidade, não estando restritos somente a sistemas computacionais, informações eletrônicas ou sistemas de armazena",
-        "carga_horaria": 0,
-        "diciplinas": 0,
-        "formacao": "Tecnólogo, Pós-graduação e Profissionalizante",
-        "texto": "O Curso Superior de Tecnologia em Segurança da Informação da UNIP tem o objetivo de capacitar o aluno a perceber, aprimorar e dinamizar os métodos de proteção aplicados sobre um conjunto de dados no sentido de preservar o valor que possui para um indivíduo ou uma organização, tendo como características básicas da segurança da informação os aspectos de confidencialidade, integridade e disponibilidade, não estando restritos somente a sistemas computacionais, informações eletrônicas ou sistemas de armazenamento. O conceito se aplica a todos os aspectos de proteção de informações e dados, acompanhando sempre o surgimento das inovações tecnológicas. Para tanto, o curso prepara o aluno por meio de tecnologias atuais, empregadas nesse exigente mercado de trabalho, e de professores altamente qualificados."
-    },
-    {
-        "codigo": 7,
-        "nome": "Sistemas de Informação",
-        "descricao": "O curso de Sistemas de Informação forma profissionais capazes de administrar o fluxo de informações geradas e distribuídas por redes de computadores dentro e fora de uma organização.",
-        "carga_horaria": 0,
-        "diciplinas": 0,
-        "formacao": "Bacharelado, Licenciatura, Tecnólogo e Pós-graduação",
-        "texto": "O curso de Sistemas de Informação forma profissionais capazes de administrar o fluxo de informações geradas e distribuídas por redes de computadores dentro e fora de uma organização.\r\n\r\nO aluno aprenderá a criar, adaptar e instalar programas que facilitam as consultas de dados, além de administrar redes de computadores.\r\n\r\nAo final do curso, o estudante estará preparado para planejar, organizar e desenvolver sistemas de processamento, de armazenamento e de recuperação de dados, e poderá disponibilizar esse material para usuários de redes.\r\n\r\nNo mercado de trabalho, o profissional de Sistemas de Informação pode trabalhar em empresas de Tecnologia da Informação (TI) ou qualquer outra que utilize banco de dados e redes.\r\n\r\nCom a presença da informática em todos os setores da economia e sua importância no mundo globalizado, novas oportunidades surgem a todo momento.\r\n\r\nOs tipos de formação para o curso de Sistemas de Informação são: bacharelado, licenciatura, tecnólogo e pós-graduação."
-    },
-    {
-        "codigo": 8,
-        "nome": "Sistemas para Internet",
-        "descricao": "O curso de Sistemas para Internet capacita profissionais para projetar, desenvolver e instalar bancos de dados, páginas para internet e programas de computador.",
-        "carga_horaria": 0,
-        "diciplinas": 0,
-        "formacao": "Bacharelado e Tecnólogo",
-        "texto": "O curso de Sistemas para Internet capacita profissionais para projetar, desenvolver e instalar bancos de dados, páginas para internet e programas de computador.\r\n\r\nQuando conclui a graduação, o tecnólogo em Sistemas para Internet está apto a realizar a configuração e instalação de redes de internet, servidores e páginas de comércio eletrônico, criar bancos de dados, páginas da internet e intranet, além de desenvolver aplicativos para plataformas móveis.\r\n\r\nEm resumo, praticamente todo tipo de serviço online fica a cargo deste profissional.\r\n\r\nNo mercado de trabalho, o tecnólogo em Sistemas para Internet pode atuar em empresas ou órgãos públicos no departamento de Tecnologia da Informação ou oferecendo consultoria para instituições públicas e privadas.\r\n\r\nOs tipos de formação para o curso de Sistemas para Internet são: bacharelado e tecnólogo."
     }
 ],"profissoes":[
     {
@@ -171,70 +135,6 @@
         ]
     },
     {
-        "codigo": 4,
-        "codigo_curso": 0,
-        "nome": "Administrador de banco de dados",
-        "medias": [
-            {
-                "codigo_profissao": 4,
-                "tipo": "Trainee",
-                "valor": 2635.54
-            },
-            {
-                "codigo_profissao": 4,
-                "tipo": "Júnior",
-                "valor": 3294.42
-            },
-            {
-                "codigo_profissao": 4,
-                "tipo": "Pleno",
-                "valor": 4118.03
-            },
-            {
-                "codigo_profissao": 4,
-                "tipo": "Sênior",
-                "valor": 5147.54
-            },
-            {
-                "codigo_profissao": 4,
-                "tipo": "Master",
-                "valor": 6434.43
-            }
-        ]
-    },
-    {
-        "codigo": 36,
-        "codigo_curso": 4,
-        "nome": "Analista  de Automação",
-        "medias": [
-            {
-                "codigo_profissao": 36,
-                "tipo": "Trainee",
-                "valor": 2495.7
-            },
-            {
-                "codigo_profissao": 36,
-                "tipo": "Júnior",
-                "valor": 3119.62
-            },
-            {
-                "codigo_profissao": 36,
-                "tipo": "Pleno",
-                "valor": 3899.53
-            },
-            {
-                "codigo_profissao": 36,
-                "tipo": "Sênior",
-                "valor": 4874.41
-            },
-            {
-                "codigo_profissao": 36,
-                "tipo": "Master",
-                "valor": 6093.01
-            }
-        ]
-    },
-    {
         "codigo": 1,
         "codigo_curso": 10,
         "nome": "Analista de redes",
@@ -260,12 +160,6 @@
                 "valor": 4980.1
             }
         ]
-    },
-    {
-        "codigo": 2,
-        "codigo_curso": 0,
-        "nome": "Analista de segurança informática",
-        "medias": []
     },
     {
         "codigo": 3,
@@ -562,27 +456,6 @@
         "uf": "PI",
         "cidade": "TERESINA",
         "tipo": "Particular"
-    },
-    {
-        "codigo": 3,
-        "nome": "UNIFAPI: Centro Universitário do Piauí",
-        "uf": "PI",
-        "cidade": "TERESINA",
-        "tipo": "Particular"
-    },
-    {
-        "codigo": 5,
-        "nome": "Universidade Estadual do Piauí",
-        "uf": "PI",
-        "cidade": "TERESINA",
-        "tipo": "Pública"
-    },
-    {
-        "codigo": 2,
-        "nome": "Universidade Federal do Piaui",
-        "uf": "PI",
-        "cidade": "TERESINA",
-        "tipo": "Pública"
     }
 ]
 
