@@ -1,157 +1,591 @@
 {
-	"cartao": {
-		"numero": "0000000000000000",
-		"valid": "03/2020",
-		"nome": "JORGE V R GAMBOA",
-		"limite": 5700.01,
-		"limite_usado": 700.01
-	},
-	"faturas": [
-		{
-			"competencia": "03/2020",
-			"valor": 400.08,
-			"pago": false,
-			"vencimento": "2020-03-04 00:00:00.000"
-		},
-		{
-			"competencia": "02/2020",
-			"valor": 754.1,
-			"pago": false,
-			"vencimento": "2020-03-04 00:00:00.000"
-		},
-		{
-			"competencia": "01/2020",
-			"valor": 854.9,
-			"pago": true,
-			"vencimento": "2020-03-04 00:00:00.000"
-		}
-	],
-	"movimentos": [
-		{
-			"valor": 29.9,
-			"descricao": "You Tube Music",
-			"categoria": 5,
-			"tipo": "+",
-			"data": "2020-03-04 00:00:00.000"
-		},
-		{
-			"valor": 500.58,
-			"descricao": "Amazon.com.br",
-			"categoria": 0,
-			"tipo": "+",
-			"data": "2020-03-05 00:00:00.000"
-		},
-		{
-			"valor": 9.99,
-			"descricao": "Amazon Prime",
-			"categoria": 8,
-			"tipo": "+",
-			"data": "2020-03-05 00:00:00.000"
-		},
-		{
-			"valor": 59.99,
-			"descricao": "Burger King",
-			"categoria": 1,
-			"tipo": "+",
-			"data": "2020-03-07 00:00:00.000"
-		},
-		{
-			"valor": 42.5,
-			"descricao": "NETFLIX",
-			"categoria": 7,
-			"tipo": "+",
-			"data": "2020-03-08 00:00:00.000"
-		},
-		{
-			"valor": 8.5,
-			"descricao": "SPOTIFY",
-			"categoria": 3,
-			"tipo": "+",
-			"data": "2020-03-02 00:00:00.000"
-		},
-		{
-			"valor": 29.99,
-			"descricao": "Udemy *PayPal",
-			"categoria": 4,
-			"tipo": "+",
-			"data": "2020-03-01 00:00:00.000"
-		},
-		{
-			"valor": 39.99,
-			"descricao": "DX *PayPal",
-			"categoria": 4,
-			"tipo": "+",
-			"data": "2020-03-06 00:00:00.000"
-		},
-		{
-			"valor": 39.99,
-			"descricao": "UBER",
-			"categoria": 10,
-			"tipo": "+",
-			"data": "2020-03-06 00:00:00.000"
-		},
-		{
-			"valor": 64.49,
-			"descricao": "Extra",
-			"categoria": 0,
-			"tipo": "+",
-			"data": "2020-03-06 00:00:00.000"
-		},
-		{
-			"valor": 24.49,
-			"descricao": "Cinema Rio Poty",
-			"categoria": 11,
-			"tipo": "+",
-			"data": "2020-03-06 00:00:00.000"
-		},
-		{
-			"valor": 825.5,
-			"descricao": "CEUT",
-			"categoria": 12,
-			"tipo": "+",
-			"data": "2020-03-05 00:00:00.000"
-		},
-		{
-			"valor": 11.5,
-			"descricao": "James Delivey",
-			"categoria": -1,
-			"tipo": "+",
-			"data": "2020-03-29 00:00:00.000"
-		},
-		{
-			"valor": 26.5,
-			"descricao": "MedPlan",
-			"categoria": 9,
-			"tipo": "+",
-			"data": "2020-03-29 00:00:00.000"
-		},
-		{
-			"valor": 74.99,
-			"descricao": "Steam *GTA V",
-			"categoria": 14,
-			"tipo": "+",
-			"data": "2020-03-29 00:00:00.000"
-		},
-		{
-			"valor": 34.7,
-			"descricao": "Telecine",
-			"categoria": 7,
-			"tipo": "+",
-			"data": "2020-03-20 00:00:00.000"
-		},
-		{
-			"valor": 34.88,
-			"descricao": "Plano OI",
-			"categoria": -1,
-			"tipo": "+",
-			"data": "2020-03-20 00:00:00.000"
-		},
-		{
-			"valor": 34.84,
-			"descricao": "Americanas.com",
-			"categoria": -1,
-			"tipo": "+",
-			"data": "2020-03-20 00:00:00.000"
-		}
-	]
+"cursos":[
+    {
+        "codigo": 1,
+        "nome": "Análise e Desenvolvimento de Sistemas",
+        "descricao": "O curso de Análise e Desenvolvimento de Sistemas forma profissionais capazes de desenvolver, analisar, projetar, implementar e atualizar sistemas de informação para diversos setores de atividades.",
+        "carga_horaria": 0,
+        "diciplinas": 0,
+        "formacao": "Tecnólogo e Pós-graduação",
+        "texto": "O curso de Análise e Desenvolvimento de Sistemas forma profissionais capazes de desenvolver, analisar, projetar, implementar e atualizar sistemas de informação para diversos setores de atividades.\r\n\r\nO estudante adquire uma base teórica sólida e uma intensa vivência prática na programação de projetos de computação.\r\n\r\nAo final do curso, se qualifica para a criação de sistemas informatizados, com conhecimento de programação dos mais diversos tipos e linguagens operacionais. Para isso, gostar de cálculos e ter raciocínio rápido e lógico são fundamentais.\r\n\r\nApesar de parecido com Sistemas de Informação, o curso de Análise e Desenvolvimento de Sistemas oferece ao aluno uma experiência mais intensa na resolução prática de problemas.\r\n\r\nCom a informatização de praticamente todos os setores da economia, a presença do profissional de informática e computação tornou-se imprescindível. No mercado de trabalho, ele pode atuar em empresas do setor público e privado, como empresas de Tecnologia de Informação (TI) e de telecomunicações.\r\n\r\nÉ importante que o profissional se mantenha atualizado sobre as linguagens de programação e os ambientes operacionais.\r\n\r\nOs tipos de formação para o curso de Análise e Desenvolvimento de Sistemas são: tecnólogo e pós-graduação."
+    },
+    {
+        "codigo": 11,
+        "nome": "Ciência de Dados",
+        "descricao": "O curso de Ciência de Dados da UNIP tem por objetivo formar Cientistas de Dados, com habilidades técnicas para analisar problemas complexos e trabalhar com ferramentas matemáticas, estatísticas e computacionais para extração de conhecimentos a partir de grandes conjuntos de dados.",
+        "carga_horaria": 0,
+        "diciplinas": 0,
+        "formacao": "Bacharelado",
+        "texto": "O curso de Ciência de Dados tem por objetivo formar Cientistas de Dados, com habilidades técnicas para analisar problemas complexos e trabalhar com ferramentas matemáticas, estatísticas e computacionais para extração de conhecimentos a partir de grandes conjuntos de dados.\r\n\r\nO aluno de Ciência de Dados recebe formação para aplicar técnicas de ciência de dados aos desafios de gerenciamento de dados massivos das organizações e à tomada de decisões nos negócios; extrair informações preditivas aplicando habilidades avançadas de estatística, modelagem e programação; converter conjuntos de dados em modelos por meio de análise preditiva; implementar algoritmos de aprendizado de máquina para melhorar a tomada de decisões de negócios; analisar dados para gerenciar e conduzir projetos que envolvam bases de dados estruturadas e não-estruturadas (Big Data); e dominar as melhores práticas para o projeto de experimentos e testes de hipóteses.\r\n\r\n"
+    },
+    {
+        "codigo": 2,
+        "nome": "Ciências da Computação",
+        "descricao": "O curso de Ciência da Computação forma profissionais qualificados para desenvolver programas e sistemas de informática, desde o planejamento do projeto até a implantação e gerenciamento do software.",
+        "carga_horaria": 0,
+        "diciplinas": 0,
+        "formacao": "Bacharelado",
+        "texto": "O curso de Ciência da Computação forma profissionais qualificados para desenvolver programas e sistemas de informática, desde o planejamento do projeto até a implantação e gerenciamento do software.\r\n\r\nPor ser da área de ciências exatas, o aluno precisa ter uma boa base matemática e raciocínio lógico desenvolvido.\r\n\r\nAo final do curso, o estudante de Ciência da Computação será capaz de criar desde ferramentas mais simples com computadores pessoais até sistemas complexos como os de processamento de informações e redes corporativas.\r\n\r\nNo mercado de trabalho, o cientista da computação pode atuar como desenvolvedor, programador, analista de TI, arquiteto de softwares, gerente de TI ou pesquisador em instituições públicas ou privadas.\r\n\r\nÉ ele quem desenvolve programas, ferramentas, redes e sistemas que permitem o funcionamento do universo computacional, tão indispensável na atualidade.\r\n\r\nO tipo de formação para o curso de Ciência da Computação é: bacharelado."
+    },
+    {
+        "codigo": 3,
+        "nome": "Engenharia da Computação",
+        "descricao": "O curso de Engenharia de Computação forma profissionais habilitados para o desenvolvimento e planejamento de softwares e hardwares.",
+        "carga_horaria": 0,
+        "diciplinas": 0,
+        "formacao": "Bacharelado",
+        "texto": "O curso de Engenharia de Computação forma profissionais habilitados para o desenvolvimento e planejamento de softwares e hardwares.\r\n\r\nAo final do curso, o profissional poderá projetar, programar e gerenciar sistemas de softwares, além de criar e projetar hardwares.\r\n\r\nNo mercado de trabalho, há espaço para o profissional de Engenharia de Computação em grandes empresas, para criar e gerenciar sistemas ou desenvolver novas máquinas industriais e novas tecnologias.\r\n\r\nO engenheiro em computação poderá atuar em organizações que necessitem de instalação, operação e manutenção da rede de computadores, transmissão de dados e sistemas de automação comercial e industrial.\r\n\r\nHá ainda a opção de se manter no meio acadêmico, para dar aulas em universidades e desenvolver pesquisas.\r\n\r\nO tipo de formação para o curso de Engenharia de Computação é: bacharelado."
+    },
+    {
+        "codigo": 4,
+        "nome": "Engenharia de Controle e Automação",
+        "descricao": "O curso de Engenharia de Controle e Automação forma profissionais capacitados para atuar com os equipamentos utilizados na indústria, projetando, operando, gerenciando e dando a manutenção adequada.",
+        "carga_horaria": 0,
+        "diciplinas": 0,
+        "formacao": "Bacharelado e Pós-graduação",
+        "texto": "O curso de Engenharia de Controle e Automação forma profissionais capacitados para atuar com os equipamentos utilizados na indústria, projetando, operando, gerenciando e dando a manutenção adequada.\r\n\r\nO profissional desta área é responsável pela automação dos processos produtivos da empresa e pode tanto criar seu próprio sistema de automação quanto dar manutenção e suporte para os sistemas já implantados.\r\n\r\nNo mercado de trabalho, o profissional de Engenharia de Controle e Automação pode, de modo geral, atuar na industrial desenvolvendo, operando e dando manutenção a equipamentos e softwares para os processos industriais.\r\n\r\nCom conhecimentos das áreas de Engenharia Elétrica, Mecânica e de Computação, o graduado deste curso terá espaço para modernizar equipamentos e aumentar a competitividade das empresas que trabalha.\r\n\r\nOs tipos de formação para o curso de Engenharia de Controle e Automação são: bacharelado e pós-graduação."
+    },
+    {
+        "codigo": 5,
+        "nome": "Engenharia de Software",
+        "descricao": "O curso de Engenharia de Software prepara profissionais para desenvolver novos programas de computador. Após a conclusão do curso, o profissional poderá projetar, testar e fazer manutenção de softwares, sistemas, jogos, aplicativos e plataformas digitais.",
+        "carga_horaria": 0,
+        "diciplinas": 0,
+        "formacao": "Bacharelado",
+        "texto": "O curso de Engenharia de Software prepara profissionais para desenvolver novos programas de computador. Após a conclusão do curso, o profissional poderá projetar, testar e fazer manutenção de softwares, sistemas, jogos, aplicativos e plataformas digitais.\r\n\r\nNa rotina de trabalho, o engenheiro de software vai muito além da programação e deve estar atento aos apelos do contratante, do cliente final e dos usuários do programa desenvolvido. Só assim poderá fazer os ajustes adequados para otimizar o uso dos softwares.\r\n\r\nNo mercado de trabalho, a principal área de atuação é a de Tecnologia da Informação, desenvolvendo softwares para empresas. Também é possível desenvolver projetos com financiamento próprio ou sob demanda para clientes isolados.\r\n\r\nO uso massivo de celulares e tablets pela população brasileira é um dos motivos pelos quais profissionais habilitados para lidar com essa tecnologia sejam tão requisitados.\r\n\r\nOs tipos de formação para o curso de Engenharia de Software são: bacharelado e pós-graduação."
+    },
+    {
+        "codigo": 6,
+        "nome": "Jogos Digitais",
+        "descricao": "O curso de Jogos Digitais forma profissionais para o desenvolvimento de jogos para as mais diversas plataformas digitais.",
+        "carga_horaria": 0,
+        "diciplinas": 0,
+        "formacao": "Bacharelado, Tecnólogo, Pós-graduação e Técnico",
+        "texto": "O curso de Jogos Digitais forma profissionais para o desenvolvimento de jogos para as mais diversas plataformas digitais.\r\n\r\nApós a conclusão do curso, o aluno está apto a desenvolver todas as etapas que constituem um jogo, como roteiro, descrição dos personagens, modelagem, criação do ambiente digital, estratégias e toda a finalização.\r\n\r\nO superior em Jogos Digitais é um curso tecnólogo e por isso pode ser concluído em dois ou três anos, de forma mais rápida que outros cursos de graduação.\r\n\r\nNo mercado de trabalho, o profissional de Jogos Digitais poderá atuar como autônomo, produzindo seus próprios projetos, ou em empresas de desenvolvimento de jogos.\r\n\r\nPode ainda atuar em outras áreas, como em empresas de publicidade e no desenvolvimento de sites e aplicativos.\r\n\r\nOs tipos de formação para o curso de Jogos Digitais são: bacharelado, tecnólogo, pós-graduação e técnico."
+    },
+    {
+        "codigo": 10,
+        "nome": "Redes de Computadores",
+        "descricao": "O curso de Redes de Computadores forma profissionais capazes de auxiliar no projeto e na construção de redes de computadores pessoais, de empresas e de produção automatizada.",
+        "carga_horaria": 0,
+        "diciplinas": 0,
+        "formacao": "Tecnólogo, Pós-graduação e Técnico",
+        "texto": "O curso de Redes de Computadores forma profissionais capazes de auxiliar no projeto e na construção de redes de computadores pessoais, de empresas e de produção automatizada. Ao final do curso, o tecnólogo em Rede de Computadores está qualificado para desenvolver e documentar projetos de redes de pequeno, médio e grande porte.\r\n\r\nTambém para avaliar o desempenho da rede e propor medidas para melhoria da qualidade de serviço. No mercado de trabalho, o profissional atua em empresas da área de Tecnologia da Informação e nos setores de TI de empresas de todos os segmentos. Também existem opções de cursos técnicos na área.\r\n\r\nEnquanto o técnico atua operacionalmente na implantação de sistemas de comunicação de dados, o tecnólogo possui competências técnicas e habilidades em gestão de redes corporativas.\r\n\r\nOs tipos de formação para o curso de Redes de Computadores são: tecnólogo, pós-graduação e técnico."
+    },
+    {
+        "codigo": 9,
+        "nome": "Segurança da Informação",
+        "descricao": "O Curso Superior de Tecnologia em Segurança da Informação tem o objetivo de capacitar o aluno a perceber, aprimorar e dinamizar os métodos de proteção aplicados sobre um conjunto de dados no sentido de preservar o valor que possui para um indivíduo ou uma organização, tendo como características básicas da segurança da informação os aspectos de confidencialidade, integridade e disponibilidade, não estando restritos somente a sistemas computacionais, informações eletrônicas ou sistemas de armazena",
+        "carga_horaria": 0,
+        "diciplinas": 0,
+        "formacao": "Tecnólogo, Pós-graduação e Profissionalizante",
+        "texto": "O Curso Superior de Tecnologia em Segurança da Informação da UNIP tem o objetivo de capacitar o aluno a perceber, aprimorar e dinamizar os métodos de proteção aplicados sobre um conjunto de dados no sentido de preservar o valor que possui para um indivíduo ou uma organização, tendo como características básicas da segurança da informação os aspectos de confidencialidade, integridade e disponibilidade, não estando restritos somente a sistemas computacionais, informações eletrônicas ou sistemas de armazenamento. O conceito se aplica a todos os aspectos de proteção de informações e dados, acompanhando sempre o surgimento das inovações tecnológicas. Para tanto, o curso prepara o aluno por meio de tecnologias atuais, empregadas nesse exigente mercado de trabalho, e de professores altamente qualificados."
+    },
+    {
+        "codigo": 7,
+        "nome": "Sistemas de Informação",
+        "descricao": "O curso de Sistemas de Informação forma profissionais capazes de administrar o fluxo de informações geradas e distribuídas por redes de computadores dentro e fora de uma organização.",
+        "carga_horaria": 0,
+        "diciplinas": 0,
+        "formacao": "Bacharelado, Licenciatura, Tecnólogo e Pós-graduação",
+        "texto": "O curso de Sistemas de Informação forma profissionais capazes de administrar o fluxo de informações geradas e distribuídas por redes de computadores dentro e fora de uma organização.\r\n\r\nO aluno aprenderá a criar, adaptar e instalar programas que facilitam as consultas de dados, além de administrar redes de computadores.\r\n\r\nAo final do curso, o estudante estará preparado para planejar, organizar e desenvolver sistemas de processamento, de armazenamento e de recuperação de dados, e poderá disponibilizar esse material para usuários de redes.\r\n\r\nNo mercado de trabalho, o profissional de Sistemas de Informação pode trabalhar em empresas de Tecnologia da Informação (TI) ou qualquer outra que utilize banco de dados e redes.\r\n\r\nCom a presença da informática em todos os setores da economia e sua importância no mundo globalizado, novas oportunidades surgem a todo momento.\r\n\r\nOs tipos de formação para o curso de Sistemas de Informação são: bacharelado, licenciatura, tecnólogo e pós-graduação."
+    },
+    {
+        "codigo": 8,
+        "nome": "Sistemas para Internet",
+        "descricao": "O curso de Sistemas para Internet capacita profissionais para projetar, desenvolver e instalar bancos de dados, páginas para internet e programas de computador.",
+        "carga_horaria": 0,
+        "diciplinas": 0,
+        "formacao": "Bacharelado e Tecnólogo",
+        "texto": "O curso de Sistemas para Internet capacita profissionais para projetar, desenvolver e instalar bancos de dados, páginas para internet e programas de computador.\r\n\r\nQuando conclui a graduação, o tecnólogo em Sistemas para Internet está apto a realizar a configuração e instalação de redes de internet, servidores e páginas de comércio eletrônico, criar bancos de dados, páginas da internet e intranet, além de desenvolver aplicativos para plataformas móveis.\r\n\r\nEm resumo, praticamente todo tipo de serviço online fica a cargo deste profissional.\r\n\r\nNo mercado de trabalho, o tecnólogo em Sistemas para Internet pode atuar em empresas ou órgãos públicos no departamento de Tecnologia da Informação ou oferecendo consultoria para instituições públicas e privadas.\r\n\r\nOs tipos de formação para o curso de Sistemas para Internet são: bacharelado e tecnólogo."
+    }
+],"profissoes":[
+    {
+        "codigo": 31,
+        "codigo_curso": 11,
+        "nome": "Administrador de Banco de Dados",
+        "medias": [
+            {
+                "codigo_profissao": 31,
+                "tipo": "Trainee",
+                "valor": 2635.54
+            },
+            {
+                "codigo_profissao": 31,
+                "tipo": "Júnior",
+                "valor": 3294.42
+            },
+            {
+                "codigo_profissao": 31,
+                "tipo": "Pleno",
+                "valor": 4118.03
+            },
+            {
+                "codigo_profissao": 31,
+                "tipo": "Sênior",
+                "valor": 5147.54
+            },
+            {
+                "codigo_profissao": 31,
+                "tipo": "Master",
+                "valor": 6434.43
+            }
+        ]
+    },
+    {
+        "codigo": 19,
+        "codigo_curso": 9,
+        "nome": "Administrador de Redes (com perfil em segurança)",
+        "medias": []
+    },
+    {
+        "codigo": 24,
+        "codigo_curso": 10,
+        "nome": "Administrador de Redes de Computadores",
+        "medias": [
+            {
+                "codigo_profissao": 24,
+                "tipo": "Trainee",
+                "valor": 2039.86
+            },
+            {
+                "codigo_profissao": 24,
+                "tipo": "Júnior",
+                "valor": 2549.81
+            },
+            {
+                "codigo_profissao": 24,
+                "tipo": "Pleno",
+                "valor": 3187.26
+            },
+            {
+                "codigo_profissao": 24,
+                "tipo": "Sênior",
+                "valor": 3984.08
+            },
+            {
+                "codigo_profissao": 24,
+                "tipo": "Master",
+                "valor": 4980.1
+            }
+        ]
+    },
+    {
+        "codigo": 4,
+        "codigo_curso": 0,
+        "nome": "Administrador de banco de dados",
+        "medias": [
+            {
+                "codigo_profissao": 4,
+                "tipo": "Trainee",
+                "valor": 2635.54
+            },
+            {
+                "codigo_profissao": 4,
+                "tipo": "Júnior",
+                "valor": 3294.42
+            },
+            {
+                "codigo_profissao": 4,
+                "tipo": "Pleno",
+                "valor": 4118.03
+            },
+            {
+                "codigo_profissao": 4,
+                "tipo": "Sênior",
+                "valor": 5147.54
+            },
+            {
+                "codigo_profissao": 4,
+                "tipo": "Master",
+                "valor": 6434.43
+            }
+        ]
+    },
+    {
+        "codigo": 36,
+        "codigo_curso": 4,
+        "nome": "Analista  de Automação",
+        "medias": [
+            {
+                "codigo_profissao": 36,
+                "tipo": "Trainee",
+                "valor": 2495.7
+            },
+            {
+                "codigo_profissao": 36,
+                "tipo": "Júnior",
+                "valor": 3119.62
+            },
+            {
+                "codigo_profissao": 36,
+                "tipo": "Pleno",
+                "valor": 3899.53
+            },
+            {
+                "codigo_profissao": 36,
+                "tipo": "Sênior",
+                "valor": 4874.41
+            },
+            {
+                "codigo_profissao": 36,
+                "tipo": "Master",
+                "valor": 6093.01
+            }
+        ]
+    },
+    {
+        "codigo": 1,
+        "codigo_curso": 10,
+        "nome": "Analista de redes",
+        "medias": [
+            {
+                "codigo_profissao": 1,
+                "tipo": "Trainee",
+                "valor": 2039.95
+            },
+            {
+                "codigo_profissao": 1,
+                "tipo": "Júnior",
+                "valor": 2549.81
+            },
+            {
+                "codigo_profissao": 1,
+                "tipo": "Pleno",
+                "valor": 3984.08
+            },
+            {
+                "codigo_profissao": 1,
+                "tipo": "Master",
+                "valor": 4980.1
+            }
+        ]
+    },
+    {
+        "codigo": 2,
+        "codigo_curso": 0,
+        "nome": "Analista de segurança informática",
+        "medias": []
+    },
+    {
+        "codigo": 3,
+        "codigo_curso": 1,
+        "nome": "Analista de sistemas",
+        "medias": [
+            {
+                "codigo_profissao": 3,
+                "tipo": "Trainee",
+                "valor": 2394.93
+            },
+            {
+                "codigo_profissao": 3,
+                "tipo": "Júnior",
+                "valor": 2993.66
+            },
+            {
+                "codigo_profissao": 3,
+                "tipo": "Pleno",
+                "valor": 3742.08
+            },
+            {
+                "codigo_profissao": 3,
+                "tipo": "Sênior",
+                "valor": 4677.6
+            },
+            {
+                "codigo_profissao": 3,
+                "tipo": "Master",
+                "valor": 5847
+            }
+        ]
+    },
+    {
+        "codigo": 5,
+        "codigo_curso": 0,
+        "nome": "Analista de suporte",
+        "medias": []
+    },
+    {
+        "codigo": 32,
+        "codigo_curso": 11,
+        "nome": "Analista e Consultor de BI",
+        "medias": []
+    },
+    {
+        "codigo": 18,
+        "codigo_curso": 9,
+        "nome": "Analista em Segurança de Processos",
+        "medias": []
+    },
+    {
+        "codigo": 17,
+        "codigo_curso": 9,
+        "nome": "Analista em Segurança de Redes de Dados",
+        "medias": [
+            {
+                "codigo_profissao": 17,
+                "tipo": "Trainee",
+                "valor": 1406.04
+            },
+            {
+                "codigo_profissao": 17,
+                "tipo": "Júnior",
+                "valor": 1616.95
+            },
+            {
+                "codigo_profissao": 17,
+                "tipo": "Pleno",
+                "valor": 1859.49
+            },
+            {
+                "codigo_profissao": 17,
+                "tipo": "Sênior",
+                "valor": 2138.41
+            },
+            {
+                "codigo_profissao": 17,
+                "tipo": "Master",
+                "valor": 2459.17
+            }
+        ]
+    },
+    {
+        "codigo": 10,
+        "codigo_curso": 0,
+        "nome": "Arquiteto de Redes de Informática",
+        "medias": []
+    },
+    {
+        "codigo": 29,
+        "codigo_curso": 11,
+        "nome": "Cientista de Dados",
+        "medias": []
+    },
+    {
+        "codigo": 21,
+        "codigo_curso": 9,
+        "nome": "Consultor em Segurança da Informação",
+        "medias": []
+    },
+    {
+        "codigo": 16,
+        "codigo_curso": 9,
+        "nome": "Coordenador de Segurança da Informação",
+        "medias": []
+    },
+    {
+        "codigo": 6,
+        "codigo_curso": 0,
+        "nome": "Designer",
+        "medias": []
+    },
+    {
+        "codigo": 34,
+        "codigo_curso": 4,
+        "nome": "Engenheiro de Automação",
+        "medias": [
+            {
+                "codigo_profissao": 34,
+                "tipo": "Trainee",
+                "valor": 4008.06
+            },
+            {
+                "codigo_profissao": 34,
+                "tipo": "Júnior",
+                "valor": 5010.08
+            },
+            {
+                "codigo_profissao": 34,
+                "tipo": "Pleno",
+                "valor": 6262.6
+            },
+            {
+                "codigo_profissao": 34,
+                "tipo": "Sênior",
+                "valor": 7828.25
+            },
+            {
+                "codigo_profissao": 34,
+                "tipo": "Master",
+                "valor": 9785.31
+            }
+        ]
+    },
+    {
+        "codigo": 30,
+        "codigo_curso": 11,
+        "nome": "Engenheiro de Dados",
+        "medias": []
+    },
+    {
+        "codigo": 8,
+        "codigo_curso": 0,
+        "nome": "Engenheiro de Software",
+        "medias": [
+            {
+                "codigo_profissao": 8,
+                "tipo": "Trainee",
+                "valor": 2809.33
+            },
+            {
+                "codigo_profissao": 8,
+                "tipo": "Júnior",
+                "valor": 3511.66
+            },
+            {
+                "codigo_profissao": 8,
+                "tipo": "Sênior",
+                "valor": 3511.66
+            },
+            {
+                "codigo_profissao": 8,
+                "tipo": "Pleno",
+                "valor": 4389.57
+            },
+            {
+                "codigo_profissao": 8,
+                "tipo": "Master",
+                "valor": 6858.7
+            }
+        ]
+    },
+    {
+        "codigo": 20,
+        "codigo_curso": 9,
+        "nome": "Especialista em Segurança da Informação",
+        "medias": []
+    },
+    {
+        "codigo": 23,
+        "codigo_curso": 1,
+        "nome": "Gerente de Projetos de Sistemas de Informação",
+        "medias": []
+    },
+    {
+        "codigo": 33,
+        "codigo_curso": 11,
+        "nome": "Gerente ou Analistas de Dados",
+        "medias": []
+    },
+    {
+        "codigo": 9,
+        "codigo_curso": 0,
+        "nome": "Gestor de Tecnologias da Informação",
+        "medias": []
+    },
+    {
+        "codigo": 7,
+        "codigo_curso": 0,
+        "nome": "Programador",
+        "medias": [
+            {
+                "codigo_profissao": 7,
+                "tipo": "Trainee",
+                "valor": 1902.45
+            },
+            {
+                "codigo_profissao": 7,
+                "tipo": "Júnior",
+                "valor": 2378.06
+            },
+            {
+                "codigo_profissao": 7,
+                "tipo": "Pleno",
+                "valor": 2972.57
+            },
+            {
+                "codigo_profissao": 7,
+                "tipo": "Sênior",
+                "valor": 3715.71
+            },
+            {
+                "codigo_profissao": 7,
+                "tipo": "Master",
+                "valor": 4644.64
+            }
+        ]
+    },
+    {
+        "codigo": 22,
+        "codigo_curso": 1,
+        "nome": "Projetista de Software",
+        "medias": []
+    },
+    {
+        "codigo": 28,
+        "codigo_curso": 10,
+        "nome": "Supervisor Técnico em Configuração e Manutenção de Redes de Computadores",
+        "medias": []
+    },
+    {
+        "codigo": 26,
+        "codigo_curso": 10,
+        "nome": "Supervisor de Operação de Redes de Computadores",
+        "medias": []
+    },
+    {
+        "codigo": 27,
+        "codigo_curso": 10,
+        "nome": "Supervisor de Redes de Computadores",
+        "medias": []
+    },
+    {
+        "codigo": 25,
+        "codigo_curso": 10,
+        "nome": "Supervisor de Segurança de Redes de Computadores",
+        "medias": []
+    },
+    {
+        "codigo": 35,
+        "codigo_curso": 4,
+        "nome": "Técnico de Automação",
+        "medias": []
+    }
+],"instituicoes":[
+    {
+        "codigo": 4,
+        "nome": "AESPI - Ensino Superior do Piauí ",
+        "uf": "PI",
+        "cidade": "TERESINA",
+        "tipo": "Particular"
+    },
+    {
+        "codigo": 6,
+        "nome": "FATEPI/FAESPI - Grupo Magister",
+        "uf": "PI",
+        "cidade": "TERESINA",
+        "tipo": "Particular"
+    },
+    {
+        "codigo": 1,
+        "nome": "Faculdade Estácio de Teresina",
+        "uf": "PI",
+        "cidade": "TERESINA",
+        "tipo": "Particular"
+    },
+    {
+        "codigo": 3,
+        "nome": "UNIFAPI: Centro Universitário do Piauí",
+        "uf": "PI",
+        "cidade": "TERESINA",
+        "tipo": "Particular"
+    },
+    {
+        "codigo": 5,
+        "nome": "Universidade Estadual do Piauí",
+        "uf": "PI",
+        "cidade": "TERESINA",
+        "tipo": "Pública"
+    },
+    {
+        "codigo": 2,
+        "nome": "Universidade Federal do Piaui",
+        "uf": "PI",
+        "cidade": "TERESINA",
+        "tipo": "Pública"
+    }
+]
+
+
+
 }
