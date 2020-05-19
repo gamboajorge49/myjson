@@ -1,193 +1,193 @@
 {
-   "cursos":[
-      {
-         "codigo":1,
-         "nome":"Análise e Desenvolvimento de Sistemas",
-         "descricao":"O curso de Análise e Desenvolvimento de Sistemas forma profissionais capazes de desenvolver, analisar, projetar, implementar e atualizar sistemas de informação para diversos setores de atividades.",
-         "carga_horaria":0,
-         "diciplinas":0,
-         "formacao":"Tecnólogo e Pós-graduação",
-         "texto":"O curso de Análise e Desenvolvimento de Sistemas forma profissionais capazes de desenvolver, analisar, projetar, implementar e atualizar sistemas de informação para diversos setores de atividades.\r\n\r\nO estudante adquire uma base teórica sólida e uma intensa vivência prática na programação de projetos de computação.\r\n\r\nAo final do curso, se qualifica para a criação de sistemas informatizados, com conhecimento de programação dos mais diversos tipos e linguagens operacionais. Para isso, gostar de cálculos e ter raciocínio rápido e lógico são fundamentais.\r\n\r\nApesar de parecido com Sistemas de Informação, o curso de Análise e Desenvolvimento de Sistemas oferece ao aluno uma experiência mais intensa na resolução prática de problemas.\r\n\r\nCom a informatização de praticamente todos os setores da economia, a presença do profissional de informática e computação tornou-se imprescindível. No mercado de trabalho, ele pode atuar em empresas do setor público e privado, como empresas de Tecnologia de Informação (TI) e de telecomunicações.\r\n\r\nÉ importante que o profissional se mantenha atualizado sobre as linguagens de programação e os ambientes operacionais.\r\n\r\nOs tipos de formação para o curso de Análise e Desenvolvimento de Sistemas são: tecnólogo e pós-graduação."
-      },
-      {
-         "codigo":2,
-         "nome":"Ciências da Computação",
-         "descricao":"O curso de Ciência da Computação forma profissionais qualificados para desenvolver programas e sistemas de informática, desde o planejamento do projeto até a implantação e gerenciamento do software.",
-         "carga_horaria":0,
-         "diciplinas":0,
-         "formacao":"Bacharelado",
-         "texto":"O curso de Ciência da Computação forma profissionais qualificados para desenvolver programas e sistemas de informática, desde o planejamento do projeto até a implantação e gerenciamento do software.\r\n\r\nPor ser da área de ciências exatas, o aluno precisa ter uma boa base matemática e raciocínio lógico desenvolvido.\r\n\r\nAo final do curso, o estudante de Ciência da Computação será capaz de criar desde ferramentas mais simples com computadores pessoais até sistemas complexos como os de processamento de informações e redes corporativas.\r\n\r\nNo mercado de trabalho, o cientista da computação pode atuar como desenvolvedor, programador, analista de TI, arquiteto de softwares, gerente de TI ou pesquisador em instituições públicas ou privadas.\r\n\r\nÉ ele quem desenvolve programas, ferramentas, redes e sistemas que permitem o funcionamento do universo computacional, tão indispensável na atualidade.\r\n\r\nO tipo de formação para o curso de Ciência da Computação é: bacharelado."
-      },
-      {
-         "codigo":3,
-         "nome":"Engenharia da Computação",
-         "descricao":"O curso de Engenharia de Computação forma profissionais habilitados para o desenvolvimento e planejamento de softwares e hardwares.",
-         "carga_horaria":0,
-         "diciplinas":0,
-         "formacao":"Bacharelado",
-         "texto":"O curso de Engenharia de Computação forma profissionais habilitados para o desenvolvimento e planejamento de softwares e hardwares.\r\n\r\nAo final do curso, o profissional poderá projetar, programar e gerenciar sistemas de softwares, além de criar e projetar hardwares.\r\n\r\nNo mercado de trabalho, há espaço para o profissional de Engenharia de Computação em grandes empresas, para criar e gerenciar sistemas ou desenvolver novas máquinas industriais e novas tecnologias.\r\n\r\nO engenheiro em computação poderá atuar em organizações que necessitem de instalação, operação e manutenção da rede de computadores, transmissão de dados e sistemas de automação comercial e industrial.\r\n\r\nHá ainda a opção de se manter no meio acadêmico, para dar aulas em universidades e desenvolver pesquisas.\r\n\r\nO tipo de formação para o curso de Engenharia de Computação é: bacharelado."
-      },
-      {
-         "codigo":5,
-         "nome":"Engenharia de Software",
-         "descricao":"O curso de Engenharia de Software prepara profissionais para desenvolver novos programas de computador. Após a conclusão do curso, o profissional poderá projetar, testar e fazer manutenção de softwares, sistemas, jogos, aplicativos e plataformas digitais.",
-         "carga_horaria":0,
-         "diciplinas":0,
-         "formacao":"Bacharelado",
-         "texto":"O curso de Engenharia de Software prepara profissionais para desenvolver novos programas de computador. Após a conclusão do curso, o profissional poderá projetar, testar e fazer manutenção de softwares, sistemas, jogos, aplicativos e plataformas digitais.\r\n\r\nNa rotina de trabalho, o engenheiro de software vai muito além da programação e deve estar atento aos apelos do contratante, do cliente final e dos usuários do programa desenvolvido. Só assim poderá fazer os ajustes adequados para otimizar o uso dos softwares.\r\n\r\nNo mercado de trabalho, a principal área de atuação é a de Tecnologia da Informação, desenvolvendo softwares para empresas. Também é possível desenvolver projetos com financiamento próprio ou sob demanda para clientes isolados.\r\n\r\nO uso massivo de celulares e tablets pela população brasileira é um dos motivos pelos quais profissionais habilitados para lidar com essa tecnologia sejam tão requisitados.\r\n\r\nOs tipos de formação para o curso de Engenharia de Software são: bacharelado e pós-graduação."
-      }
-   ],
-   "profissoes":[
-      {
-         "codigo":24,
-         "codigo_curso":10,
-         "nome":"Administrador de Redes de Computadores",
-         "medias":[
-            {
-               "codigo_profissao":24,
-               "tipo":"Trainee",
-               "valor":2039.86
-            },
-            {
-               "codigo_profissao":24,
-               "tipo":"Júnior",
-               "valor":2549.81
-            },
-            {
-               "codigo_profissao":24,
-               "tipo":"Pleno",
-               "valor":3187.26
-            },
-            {
-               "codigo_profissao":24,
-               "tipo":"Sênior",
-               "valor":3984.08
-            },
-            {
-               "codigo_profissao":24,
-               "tipo":"Master",
-               "valor":4980.1
-            }
-         ]
-      },
-      {
-         "codigo":3,
-         "codigo_curso":1,
-         "nome":"Analista de sistemas",
-         "medias":[
-            {
-               "codigo_profissao":3,
-               "tipo":"Trainee",
-               "valor":2394.93
-            },
-            {
-               "codigo_profissao":3,
-               "tipo":"Júnior",
-               "valor":2993.66
-            },
-            {
-               "codigo_profissao":3,
-               "tipo":"Pleno",
-               "valor":3742.08
-            },
-            {
-               "codigo_profissao":3,
-               "tipo":"Sênior",
-               "valor":4677.6
-            },
-            {
-               "codigo_profissao":3,
-               "tipo":"Master",
-               "valor":5847
-            }
-         ]
-      },
-      {
-         "codigo":8,
-         "codigo_curso":0,
-         "nome":"Engenheiro de Software",
-         "medias":[
-            {
-               "codigo_profissao":8,
-               "tipo":"Trainee",
-               "valor":2809.33
-            },
-            {
-               "codigo_profissao":8,
-               "tipo":"Júnior",
-               "valor":3511.66
-            },
-            {
-               "codigo_profissao":8,
-               "tipo":"Sênior",
-               "valor":3511.66
-            },
-            {
-               "codigo_profissao":8,
-               "tipo":"Pleno",
-               "valor":4389.57
-            },
-            {
-               "codigo_profissao":8,
-               "tipo":"Master",
-               "valor":6858.7
-            }
-         ]
-      },
-      {
-         "codigo":7,
-         "codigo_curso":0,
-         "nome":"Programador",
-         "medias":[
-            {
-               "codigo_profissao":7,
-               "tipo":"Trainee",
-               "valor":1902.45
-            },
-            {
-               "codigo_profissao":7,
-               "tipo":"Júnior",
-               "valor":2378.06
-            },
-            {
-               "codigo_profissao":7,
-               "tipo":"Pleno",
-               "valor":2972.57
-            },
-            {
-               "codigo_profissao":7,
-               "tipo":"Sênior",
-               "valor":3715.71
-            },
-            {
-               "codigo_profissao":7,
-               "tipo":"Master",
-               "valor":4644.64
-            }
-         ]
-      }
-   ],
-   "instituicoes":[
-      {
-         "codigo":4,
-         "nome":"AESPI - Ensino Superior do Piauí ",
-         "uf":"PI",
-         "cidade":"TERESINA",
-         "tipo":"Particular"
-      },
-      {
-         "codigo":6,
-         "nome":"FATEPI/FAESPI - Grupo Magister",
-         "uf":"PI",
-         "cidade":"TERESINA",
-         "tipo":"Particular"
-      },
-      {
-         "codigo":1,
-         "nome":"Faculdade Estácio de Teresina",
-         "uf":"PI",
-         "cidade":"TERESINA",
-         "tipo":"Particular"
-      }
-   ]
+	"cursos": [
+		{
+			"codigo": 1,
+			"nome": "Análise e Desenvolvimento de Sistemas",
+			"descricao": "O curso de Análise e Desenvolvimento de Sistemas forma profissionais capazes de desenvolver, analisar, projetar, implementar e atualizar sistemas de informação para diversos setores de atividades.",
+			"carga_horaria": 0,
+			"diciplinas": 0,
+			"formacao": "Tecnólogo e Pós-graduação",
+			"texto": "O curso de Análise e Desenvolvimento de Sistemas forma profissionais capazes de desenvolver, analisar, projetar, implementar e atualizar sistemas de informação para diversos setores de atividades.\r\n\r\nO estudante adquire uma base teórica sólida e uma intensa vivência prática na programação de projetos de computação.\r\n\r\nAo final do curso, se qualifica para a criação de sistemas informatizados, com conhecimento de programação dos mais diversos tipos e linguagens operacionais. Para isso, gostar de cálculos e ter raciocínio rápido e lógico são fundamentais.\r\n\r\nApesar de parecido com Sistemas de Informação, o curso de Análise e Desenvolvimento de Sistemas oferece ao aluno uma experiência mais intensa na resolução prática de problemas.\r\n\r\nCom a informatização de praticamente todos os setores da economia, a presença do profissional de informática e computação tornou-se imprescindível. No mercado de trabalho, ele pode atuar em empresas do setor público e privado, como empresas de Tecnologia de Informação (TI) e de telecomunicações.\r\n\r\nÉ importante que o profissional se mantenha atualizado sobre as linguagens de programação e os ambientes operacionais.\r\n\r\nOs tipos de formação para o curso de Análise e Desenvolvimento de Sistemas são: tecnólogo e pós-graduação."
+		},
+		{
+			"codigo": 2,
+			"nome": "Ciências da Computação",
+			"descricao": "O curso de Ciência da Computação forma profissionais qualificados para desenvolver programas e sistemas de informática, desde o planejamento do projeto até a implantação e gerenciamento do software.",
+			"carga_horaria": 0,
+			"diciplinas": 0,
+			"formacao": "Bacharelado",
+			"texto": "O curso de Ciência da Computação forma profissionais qualificados para desenvolver programas e sistemas de informática, desde o planejamento do projeto até a implantação e gerenciamento do software.\r\n\r\nPor ser da área de ciências exatas, o aluno precisa ter uma boa base matemática e raciocínio lógico desenvolvido.\r\n\r\nAo final do curso, o estudante de Ciência da Computação será capaz de criar desde ferramentas mais simples com computadores pessoais até sistemas complexos como os de processamento de informações e redes corporativas.\r\n\r\nNo mercado de trabalho, o cientista da computação pode atuar como desenvolvedor, programador, analista de TI, arquiteto de softwares, gerente de TI ou pesquisador em instituições públicas ou privadas.\r\n\r\nÉ ele quem desenvolve programas, ferramentas, redes e sistemas que permitem o funcionamento do universo computacional, tão indispensável na atualidade.\r\n\r\nO tipo de formação para o curso de Ciência da Computação é: bacharelado."
+		},
+		{
+			"codigo": 3,
+			"nome": "Engenharia da Computação",
+			"descricao": "O curso de Engenharia de Computação forma profissionais habilitados para o desenvolvimento e planejamento de softwares e hardwares.",
+			"carga_horaria": 0,
+			"diciplinas": 0,
+			"formacao": "Bacharelado",
+			"texto": "O curso de Engenharia de Computação forma profissionais habilitados para o desenvolvimento e planejamento de softwares e hardwares.\r\n\r\nAo final do curso, o profissional poderá projetar, programar e gerenciar sistemas de softwares, além de criar e projetar hardwares.\r\n\r\nNo mercado de trabalho, há espaço para o profissional de Engenharia de Computação em grandes empresas, para criar e gerenciar sistemas ou desenvolver novas máquinas industriais e novas tecnologias.\r\n\r\nO engenheiro em computação poderá atuar em organizações que necessitem de instalação, operação e manutenção da rede de computadores, transmissão de dados e sistemas de automação comercial e industrial.\r\n\r\nHá ainda a opção de se manter no meio acadêmico, para dar aulas em universidades e desenvolver pesquisas.\r\n\r\nO tipo de formação para o curso de Engenharia de Computação é: bacharelado."
+		},
+		{
+			"codigo": 5,
+			"nome": "Engenharia de Software",
+			"descricao": "O curso de Engenharia de Software prepara profissionais para desenvolver novos programas de computador. Após a conclusão do curso, o profissional poderá projetar, testar e fazer manutenção de softwares, sistemas, jogos, aplicativos e plataformas digitais.",
+			"carga_horaria": 0,
+			"diciplinas": 0,
+			"formacao": "Bacharelado",
+			"texto": "O curso de Engenharia de Software prepara profissionais para desenvolver novos programas de computador. Após a conclusão do curso, o profissional poderá projetar, testar e fazer manutenção de softwares, sistemas, jogos, aplicativos e plataformas digitais.\r\n\r\nNa rotina de trabalho, o engenheiro de software vai muito além da programação e deve estar atento aos apelos do contratante, do cliente final e dos usuários do programa desenvolvido. Só assim poderá fazer os ajustes adequados para otimizar o uso dos softwares.\r\n\r\nNo mercado de trabalho, a principal área de atuação é a de Tecnologia da Informação, desenvolvendo softwares para empresas. Também é possível desenvolver projetos com financiamento próprio ou sob demanda para clientes isolados.\r\n\r\nO uso massivo de celulares e tablets pela população brasileira é um dos motivos pelos quais profissionais habilitados para lidar com essa tecnologia sejam tão requisitados.\r\n\r\nOs tipos de formação para o curso de Engenharia de Software são: bacharelado e pós-graduação."
+		}
+	],
+	"profissoes": [
+		{
+			"codigo": 24,
+			"codigo_curso": 10,
+			"nome": "Administrador de Redes de Computadores",
+			"medias": [
+				{
+					"codigo_profissao": 24,
+					"tipo": "Trainee",
+					"valor": 2039.86
+				},
+				{
+					"codigo_profissao": 24,
+					"tipo": "Júnior",
+					"valor": 2549.81
+				},
+				{
+					"codigo_profissao": 24,
+					"tipo": "Pleno",
+					"valor": 3187.26
+				},
+				{
+					"codigo_profissao": 24,
+					"tipo": "Sênior",
+					"valor": 3984.08
+				},
+				{
+					"codigo_profissao": 24,
+					"tipo": "Master",
+					"valor": 4980.1
+				}
+			]
+		},
+		{
+			"codigo": 3,
+			"codigo_curso": 1,
+			"nome": "Analista de sistemas",
+			"medias": [
+				{
+					"codigo_profissao": 3,
+					"tipo": "Trainee",
+					"valor": 2394.93
+				},
+				{
+					"codigo_profissao": 3,
+					"tipo": "Júnior",
+					"valor": 2993.66
+				},
+				{
+					"codigo_profissao": 3,
+					"tipo": "Pleno",
+					"valor": 3742.08
+				},
+				{
+					"codigo_profissao": 3,
+					"tipo": "Sênior",
+					"valor": 4677.6
+				},
+				{
+					"codigo_profissao": 3,
+					"tipo": "Master",
+					"valor": 5847.7
+				}
+			]
+		},
+		{
+			"codigo": 8,
+			"codigo_curso": 0,
+			"nome": "Engenheiro de Software",
+			"medias": [
+				{
+					"codigo_profissao": 8,
+					"tipo": "Trainee",
+					"valor": 2809.33
+				},
+				{
+					"codigo_profissao": 8,
+					"tipo": "Júnior",
+					"valor": 3511.66
+				},
+				{
+					"codigo_profissao": 8,
+					"tipo": "Sênior",
+					"valor": 3511.66
+				},
+				{
+					"codigo_profissao": 8,
+					"tipo": "Pleno",
+					"valor": 4389.57
+				},
+				{
+					"codigo_profissao": 8,
+					"tipo": "Master",
+					"valor": 6858.7
+				}
+			]
+		},
+		{
+			"codigo": 7,
+			"codigo_curso": 0,
+			"nome": "Programador",
+			"medias": [
+				{
+					"codigo_profissao": 7,
+					"tipo": "Trainee",
+					"valor": 1902.45
+				},
+				{
+					"codigo_profissao": 7,
+					"tipo": "Júnior",
+					"valor": 2378.06
+				},
+				{
+					"codigo_profissao": 7,
+					"tipo": "Pleno",
+					"valor": 2972.57
+				},
+				{
+					"codigo_profissao": 7,
+					"tipo": "Sênior",
+					"valor": 3715.71
+				},
+				{
+					"codigo_profissao": 7,
+					"tipo": "Master",
+					"valor": 4644.64
+				}
+			]
+		}
+	],
+	"instituicoes": [
+		{
+			"codigo": 4,
+			"nome": "AESPI - Ensino Superior do Piauí ",
+			"uf": "PI",
+			"cidade": "TERESINA",
+			"tipo": "Particular"
+		},
+		{
+			"codigo": 6,
+			"nome": "FATEPI/FAESPI - Grupo Magister",
+			"uf": "PI",
+			"cidade": "TERESINA",
+			"tipo": "Particular"
+		},
+		{
+			"codigo": 1,
+			"nome": "Faculdade Estácio de Teresina",
+			"uf": "PI",
+			"cidade": "TERESINA",
+			"tipo": "Particular"
+		}
+	]
 }
