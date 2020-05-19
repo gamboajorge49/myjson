@@ -38,38 +38,38 @@
 		}
 	],
 	"profissoes": [
-		{
-			"codigo": 24,
-			"codigo_curso": 10,
-			"nome": "Administrador de Redes de Computadores",
-			"medias": [
-				{
-					"codigo_profissao": 24,
-					"tipo": "Trainee",
-					"valor": 2039.86
-				},
-				{
-					"codigo_profissao": 24,
-					"tipo": "Júnior",
-					"valor": 2549.81
-				},
-				{
-					"codigo_profissao": 24,
-					"tipo": "Pleno",
-					"valor": 3187.26
-				},
-				{
-					"codigo_profissao": 24,
-					"tipo": "Sênior",
-					"valor": 3984.08
-				},
-				{
-					"codigo_profissao": 24,
-					"tipo": "Master",
-					"valor": 4980.1
-				}
-			]
-		},
+		    {
+        "codigo": 7,
+        "codigo_curso": 1,
+        "nome": "Programador",
+        "medias": [
+            {
+                "codigo_profissao": 7,
+                "tipo": "Trainee",
+                "valor": 1902.45
+            },
+            {
+                "codigo_profissao": 7,
+                "tipo": "Júnior",
+                "valor": 2378.06
+            },
+            {
+                "codigo_profissao": 7,
+                "tipo": "Pleno",
+                "valor": 2972.57
+            },
+            {
+                "codigo_profissao": 7,
+                "tipo": "Sênior",
+                "valor": 3715.71
+            },
+            {
+                "codigo_profissao": 7,
+                "tipo": "Master",
+                "valor": 4644.64
+            }
+        ]
+    },
 		{
 			"codigo": 3,
 			"codigo_curso": 1,
@@ -104,7 +104,7 @@
 		},
 		{
 			"codigo": 8,
-			"codigo_curso": 0,
+			"codigo_curso": 5,
 			"nome": "Engenheiro de Software",
 			"medias": [
 				{
@@ -136,7 +136,7 @@
 		},
 		{
 			"codigo": 7,
-			"codigo_curso": 0,
+			"codigo_curso": 2,
 			"nome": "Programador",
 			"medias": [
 				{
